@@ -1,10 +1,48 @@
-![React AI Resume Builder](https://github.com/rrs301/AI-Resume-Builder/assets/20216436/0a78231c-754e-4f2e-94b0-ae9474cbf613)
+# 🚀 AI Resume Builder
 
-# React + Vite
+An intelligent web application that helps users create professional, ATS-friendly resumes using AI-powered content generation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* 🤖 **AI Summary Generation**
+* 💼 **AI Professional Experience Generator**
+* 📂 **AI Project Description Generator**
+* 📄 **Live Resume Preview**
+* 📥 **Download Resume (PDF)**
+* 🎨 **Custom Themes & Styling**
+* ⚡ **Fast & Responsive UI**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React + Vite
+* **Styling:** Tailwind CSS
+* **AI Integration:** Google Gemini API
+* **Backend / CMS:** Strapi
+* **Icons & UI:** Lucide React
+
+---
+
+## 📌 How It Works
+
+1. Enter your details (Summary, Experience, Projects)
+2. Click **"Generate from AI"**
+3. AI generates professional content
+4. Preview your resume
+5. Download and use it
+
+---
+
+## 📈 Future Improvements
+
+* 🔹 Add multiple resume templates
+* 🔹 Export to multiple formats (PDF, DOCX)
+* 🔹 AI-based skill suggestions
+* 🔹 Resume scoring system
+
+---
+
+
